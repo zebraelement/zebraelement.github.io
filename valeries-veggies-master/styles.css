@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Sunshiney&display=swap');
+
+body {
+  background-color: #33FF42;
+  font-family: 'Sunshiney', cursive;
+}
+p {
+  color: #FF33FC;
+}
+h1, h2 {
+  color: #33B2FF;
+}
+ul {
+  background-color: #FF335B;
+  border: 20px dotted pink;
+  color: #33B2FF;
+}
+#top-brand {
+  width: 100px;
+}
+
+#Header {
+  color: white;
+  font-size: 60px;
+}
+
+#test2 {
+  color: grey;
+}
+
+
+.veggie {
+  color: #FF33FC;
+}
+
+.fruit {
+  color: #33B2FF;
+}
